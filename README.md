@@ -28,3 +28,7 @@ A triple of Euler angles can be applied/interpreted in 24 ways, which can be spe
   - parity : even (0) if inner axis ‘x’ is followed by ‘y’, ‘y’ is followed by ‘z’, or ‘z’ is followed by ‘x’. Otherwise odd (1).
   - repetition : first and last axis are same (1) or different (0).
   -frame : rotations are applied to static (0) or rotating (1) frame.
+
+
+
+参考：https://sychaichangkun.gitbooks.io/ros-tutorial-icourse163/content/chapter8/8.4.html
