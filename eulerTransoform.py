@@ -1,8 +1,11 @@
 # --*--coding: utf-8 --*--
 # @Time: 2022/1/18 21:51
-# @Author: chh
+# @Author: chh3213
 # @PROJECT_NAME: test.
 # @File: eulerTransoform.py
+"""
+欧拉角不同顺序的转换
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 import string
